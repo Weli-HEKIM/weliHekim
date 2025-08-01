@@ -1,6 +1,5 @@
 # weliHekim
 <h1 align="center">Bonjour 👋, je suis weli HEKIM</h1>
-<h3 align="center">Un développeur front-end passionné originaire d'Inde</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weli-hekim&label=Profile%20views&color=0e75b6&style=flat" alt="weli-hekim" /> </p>
 
