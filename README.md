@@ -1,10 +1,6 @@
 # weliHekim
 <h1 align="center">Bonjour 👋, je suis weli HEKIM</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weli-hekim&label=Profile%20views&color=0e75b6&style=flat" alt="weli-hekim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weli-hekim" alt="weli-hekim" /></a> </p>
-
 - 🌱 Je suis actuellement en formation **développeur intégrateur web**
 
 - 📫 Comment me contacter **oyghan11@gmail.com**
